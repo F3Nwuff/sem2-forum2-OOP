@@ -14,7 +14,9 @@ an example is the class calcTotalSales and the instance is the salesHistory.
 2.b ) to keep the objects inside of it private or protected (limited access, and cannot be changed externally, so it must use methods to access it)
 
 2.c.i )
+
 ![sem2forum2.png](..%2Fsem2forum2.png)
+
 2.c.ii ) compatibility issues, and error inputs because any changes in sales would also need to be changed in salesperson because it is dependant on objects in sales.
 
 2.d ) the output is :
